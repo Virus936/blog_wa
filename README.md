@@ -41,7 +41,6 @@ def generate_words(letters):
     return possible_words
 
 def is_valid_word(word):
-    # Vérifie si le mot est dans le dictionnaire
     return word in dictionary
 ```
 
