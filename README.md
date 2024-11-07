@@ -187,7 +187,9 @@ QUOI ? C'EST TOUT ???? JE ME SUIS FAIS CHIER POUR RIEN !!!
 
 Je me rend compte que pour l'usage que j'en avais, c'est à dire la résolution de mon *jeu de mot*, utiliser un algorithme sofistiqué tel que l'algorithme Trie, m'a juste fait perdre mon temps... Bon je vais fumer une clope pour me détendre...
 
-5 minutes later...
+
+![image](https://github.com/user-attachments/assets/8ffb7959-05a0-4a74-a2fb-42118af92122)
+
 
 Après une petite pause pour fumer une clope et laisser redescendre la pression, j'ai réalisé que même si l'amélioration n'était pas énorme pour un petit jeu de mots, j'avais quand même enrichi ma boîte à outils algorithmique.
 
