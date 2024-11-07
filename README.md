@@ -77,16 +77,21 @@ Je vais tenter de t'expliquer.
 Un Trie, ça fonctionne comme un arbre où chaque nœud représente un caractère d'un mot. En gros, tu construis un chemin pour chaque mot à partir de la racine. Ça permet de rechercher, insérer et vérifier des mots en un temps record. En plus, quand tu veux vérifier si un mot existe ou trouver tous les mots qui partagent un préfixe commun, ça devient un jeu d’enfant. Pas besoin de faire des permutations à gogo, tu parcours simplement l'arbre.
 
 Par exemple, 
-Au début, notre arbre ressemble à ça : ![CleanShot 2024-11-07 at 11 08 18](https://github.com/user-attachments/assets/4585ff71-3217-48d0-adb0-6e25f619bf79)
+Au début, notre arbre ressemble à ça : 
+
+![CleanShot 2024-11-07 at 11 08 18](https://github.com/user-attachments/assets/4585ff71-3217-48d0-adb0-6e25f619bf79)
 
 
 Ensuite, on insère le mot *art*, on a alors l'arborescence suivante :
+
 ![CleanShot 2024-11-07 at 11 08 53](https://github.com/user-attachments/assets/f2b37094-2de0-4a41-82c0-61f3e1e26492)
 
 on insère chine :
+
 ![CleanShot 2024-11-07 at 11 09 01](https://github.com/user-attachments/assets/aef1efd9-cf3a-443a-bcef-38de2b4995a5)
 
 on insère chien :
+
 ![CleanShot 2024-11-07 at 11 09 11](https://github.com/user-attachments/assets/48ef712e-9ebf-4d0c-882b-28a4e556589c)
 
 Ainsi, il est assez facile de chercher si un préfixe existe (*ch* est un préfixe commun de *chien* et *chine*). Toutes les "sous-branches" de *c-h* sont des mots dont le préfixe est *ch*
