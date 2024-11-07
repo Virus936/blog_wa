@@ -61,7 +61,7 @@ Il me faut une autre approche !
 
 
 
-### Une meilleure approche : le Trie
+## Une meilleure approche : le Trie
 
 
 Bon, là, il est temps de parler du **Trie** (ça se prononce "traille"). Oublie la méthode naine qui m'a fait perdre un temps fou. Le Trie, c’est comme passer d’un vélo à une moto de compétition. Avec cet algo, on peut gérer les mots de manière beaucoup plus efficace. Si j’avais su, j’aurais pu éviter des crises de nerfs en regardant mon PC galérer à chaque combinaison.
