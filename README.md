@@ -147,7 +147,7 @@ class Trie:
 
 Le temps libre, c’est ce petit espace précieux qu’on se crée au milieu de nos obligations et de notre quotidien. C’est le moment où l’on peut se déconnecter, faire ce qu’on aime vraiment : se plonger dans un bon bouquin, sortir avec des potes, ou même juste glander sur le canap' à binge-watcher une série. C’est un peu comme un souffle de liberté qui nous rappelle qu’on n’est pas que des robots programmés à bosser. En fait, ces moments de détente sont cruciaux pour recharger les batteries, stimuler la créativité et garder le moral. Alors, que ce soit une balade dans le parc ou une soirée jeux vidéo, il faut en profiter à fond !
 
-### Trie vs. Approche naïve
+## Trie vs. Approche naïve
 
 Après avoir bricolé mes deux solutions, il était temps de voir laquelle se démerdait le mieux. Alors, je me suis dit : " Allez, je vais comparer la vitesse de mon algo à la bourrin avec celle du Trie. " Et voilà le verdict :
 
