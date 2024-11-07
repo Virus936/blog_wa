@@ -1,6 +1,6 @@
 ## Introduction
 
-Je vous ai déjà parlé de mon addiction ? À un moment donné, je ne pouvais pas m’empêcher de passer des heures sur un jeu qu'on appelle Mots de lettres. Pour ceux qui ne connaissent pas, c’est un jeu où tu dois former des mots à partir de 5 lettres. Franchement, c’est un concept qui semble simple, mais ce jeu est tellement pourri qu’il te vole ta vie sans que tu t’en rendes compte ! J’y passais facilement 2 à 3 heures par jour, à tourner en rond sur un tas de lettres. Je me suis vraiment senti comme une merde à perdre autant de temps sur une bouse pareille. Frustré par tout ce temps foutu en l'air, j'ai décidé de prendre les choses en main et de développer une solution qui me permettrait de trouver tous les mots en un clin d'œil.
+Je vous ai déjà parlé de mon addiction ? À un moment donné, je ne pouvais pas m’empêcher de passer des heures sur un jeu qu'on appelle Mots de lettres. Pour ceux qui ne connaissent pas, c’est un jeu où tu dois former des mots à partir de 5 lettres données. Franchement, c’est un concept qui semble simple, mais ce jeu est tellement pourri qu’il te vole ta vie sans que tu t’en rendes compte ! J’y passais facilement 2 à 3 heures par jour, à tourner en rond sur un tas de lettres. Je me suis vraiment senti comme une merde à perdre autant de temps sur une bouse pareille. Frustré par tout ce temps foutu en l'air, j'ai décidé de prendre les choses en main et de développer une solution qui me permettrait de trouver tous les mots en un clin d'œil.
 
 
 ## Une approche naïve pour trouver des mots
